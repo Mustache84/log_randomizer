@@ -1,0 +1,10 @@
+su-charles
+su-bubba
+nix-sue
+nix-bob
+nix-rebecca
+nix-bill
+nix-eric
+nix-cheryl
+nix-claire
+nix-candace
