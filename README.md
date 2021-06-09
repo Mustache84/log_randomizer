@@ -1,6 +1,6 @@
-This script runs through a document and searches for variables, which are listed in the replace string towards the end
-It then replaces all variables with random selections from whatever list is being called for that
-variable.  
+This script runs through a document and searches for variables, which are listed in the replace string towards the end.
+
+It then replaces all variables with random selections from whatever list is being called for that variable.  
 
 Known variables with lists already created:
 
